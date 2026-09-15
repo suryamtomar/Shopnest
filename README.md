@@ -34,9 +34,9 @@ A full-stack MERN e-commerce platform simulating a real-world online shopping ex
 
 ## Project Structure
 Shopnest/
-├── client/ # React frontend
-├── server/ # Express + MongoDB backend
-└── README.md
+- client/   → React frontend
+- server/   → Express + MongoDB backend
+- README.md
 
 ## Getting Started
 
