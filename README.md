@@ -1,51 +1,35 @@
-Shopnest — Full-Stack Ecommerce Platform (MERN)
+# Shopnest — Full-Stack Ecommerce Platform (MERN)
 
 A full-stack MERN e-commerce platform simulating a real-world online shopping experience — from product discovery to order tracking.
 
-Features
-Product Grid with Live Search — browse and filter products instantly
-Persistent Cart — cart state shared and saved across pages
-Multi-item Checkout — 3 dynamic delivery-date pricing tiers, real-time shipping cost updates, automated 10% tax calculation feeding a live order-total summary
-Order History — view all past orders with details
-Visual Order Tracking — progress bar (Preparing → Shipped → Delivered)
-Custom Branding — nest-and-leaf logo, green theme, favicon & responsive header across desktop/mobile
-Tech Stack
+## Features
 
-Frontend: React.js, CSS, Axios Backend: Node.js, Express.js (RESTful API) Database: MongoDB Planned Deployment: Vercel (client), Render (server), MongoDB Atlas
+- **Product Grid with Live Search** — browse and filter products instantly
+- **Persistent Cart** — cart state shared and saved across pages
+- **Multi-item Checkout** — 3 dynamic delivery-date pricing tiers, real-time shipping cost updates, automated 10% tax calculation feeding a live order-total summary
+- **Order History** — view all past orders with details
+- **Visual Order Tracking** — progress bar (Preparing → Shipped → Delivered)
+- **Custom Branding** — nest-and-leaf logo, green theme, favicon & responsive header across desktop/mobile
 
-Screenshots
+## Tech Stack
 
-Home / Product Grid Show Image
+**Frontend:** React.js, CSS, Axios
+**Backend:** Node.js, Express.js (RESTful API)
+**Database:** MongoDB
+**Planned Deployment:** Vercel (client), Render (server), MongoDB Atlas
 
-Checkout Show Image
+## Screenshots
 
-Your Orders Show Image
+**Home / Product Grid**
+![home](./screenshots/home.png)
 
-Order Tracking Show Image
+**Checkout**
+![checkout](./screenshots/checkout.png)
 
-Project Structure
-Shopnest/
-├── client/     # React frontend
-├── server/     # Express + MongoDB backend
-└── README.md
-Getting Started
-bash
-git clone https://github.com/suryamtomar/Shopnest.git
-cd Shopnest
+**Your Orders**
+![orders](./screenshots/orders.png)
 
-# frontend
-cd client
-npm install
-npm run dev
+**Order Tracking**
+![tracking](./screenshots/tracking.png)
 
-# backend (in a new terminal)
-cd server
-npm install
-npm run dev
-Status
-
-🚧 In active development — deployment coming soon.
-
-Author
-
-Suryam Tomar suryamtomar.in · GitHub
+## Project Structure
