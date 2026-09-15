@@ -21,17 +21,16 @@ A full-stack MERN e-commerce platform simulating a real-world online shopping ex
 ## Screenshots
 
 **Home / Product Grid**
-![home](./screenshots/home.png)
+![home](./Home.png)
 
 **Checkout**
-![checkout](./screenshots/checkout.png)
+![checkout](./checkout.png)
 
 **Your Orders**
-![orders](./screenshots/orders.png)
+![orders](./orders.png)
 
 **Order Tracking**
-![tracking](./screenshots/tracking.png)
-
+![tracking](./track.png)
 ## Project Structure
 Shopnest/
 - client/   → React frontend
