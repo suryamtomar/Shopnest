@@ -21,21 +21,25 @@ A full-stack MERN e-commerce platform simulating a real-world online shopping ex
 ## Screenshots
 
 **<b>Home / Product Grid</b>**
+<br><br>
 <img src="./Home.png" width="700"/>
 <br>
 <br><br>
 
 **<b>Checkout</b>**
+<br><br>
 <img src="./checkout.png" width="700"/>
 <br>
 <br><br>
 
 **<b>Your Orders</b>**
+<br><br>
 <img src="./orders.png" width="700"/>
 <br>
 <br><br>
 
 **<b>Order Tracking</b>**
+<br><br>
 <img src="./track.png" width="700"/>
 <br>
 <br><br>
