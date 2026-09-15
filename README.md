@@ -33,3 +33,33 @@ A full-stack MERN e-commerce platform simulating a real-world online shopping ex
 ![tracking](./screenshots/tracking.png)
 
 ## Project Structure
+Shopnest/
+├── client/ # React frontend
+├── server/ # Express + MongoDB backend
+└── README.md
+
+## Getting Started
+
+```bash
+git clone https://github.com/suryamtomar/Shopnest.git
+cd Shopnest
+
+# frontend
+cd client
+npm install
+npm run dev
+
+# backend (in a new terminal)
+cd server
+npm install
+npm run dev
+```
+
+## Status
+
+🚧 In active development — deployment coming soon.
+
+## Author
+
+**Suryam Tomar**
+[suryamtomar.in](https://suryamtomar.in) · [GitHub](https://github.com/suryamtomar)
