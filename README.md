@@ -1,4 +1,4 @@
-# Shopnest — Full-Stack Ecommerce Platform (MERN)
+# Shopnest — Full-Stack Ecommerce Platform.
 
 A full-stack MERN e-commerce platform simulating a real-world online shopping experience — from product discovery to order tracking.
 
