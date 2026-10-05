@@ -5,7 +5,7 @@ A full-stack MERN e-commerce platform simulating a real-world online shopping ex
 ## Features
 
 - **Product Grid with Live Search** — browse and filter products instantly
-- **Persistent Cart** — cart state shared and saved across pages
+- **Persistent Cart** — cart state shared and saved across all pages
 - **Multi-item Checkout** — 3 dynamic delivery-date pricing tiers, real-time shipping cost updates, automated 10% tax calculation feeding a live order-total summary
 - **Order History** — view all past orders with details
 - **Visual Order Tracking** — progress bar (Preparing → Shipped → Delivered)
