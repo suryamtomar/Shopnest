@@ -9,7 +9,7 @@ A full-stack MERN e-commerce platform simulating a real-world online shopping ex
 - **Multi-item Checkout** — 3 dynamic delivery-date pricing tiers, real-time shipping cost updates, automated 10% tax calculation feeding a live order-total summary
 - **Order History** — view all past orders with details
 - **Visual Order Tracking** — progress bar (Preparing → Shipped → Delivered)
-- **Custom Branding** — nest-and-leaf logo, green theme, favicon & responsive header across desktop/mobile
+- **Custom Branding** — nest-and-leaf logo, green theme & responsive header across desktop/mobile
 
 ## Tech Stack
 
